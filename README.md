@@ -1,2 +1,4 @@
-# ultra-low_field-MRI-project
-Engineering characterisation, baseline performance data, and technical documentation for the 48 mT Halbach MRI system at the Mbarara University of Science and Technology Low Field MRI Laboratory.
+# ultra-low_field-MRI-project at Mbarara University of Science and Technology
+This repository houses the systematic engineering characterisation, safety assessments, and the first-draft technical manual for the 48 mT Halbach permanent-magnet MRI system. Hosted at the Low Field MRI Laboratory within the Faculty of Applied Sciences and Technology (FAST) at Mbarara University of Science and Technology, this system serves as a platform for magnetic resonance imaging and reproducible MRI research. It consists of construction details, operating characteristics, and safety provisions required for independent verification. This project establishes a documented baseline for reproducible operation, maintenance, and future technical improvements.
+<img width="768" height="1020" alt="image" src="https://github.com/user-attachments/assets/f3ebe2fc-dc33-4ce1-ac66-9f8e3e59f1aa" />
+
